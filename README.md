@@ -4,8 +4,14 @@
 1.  Input nilai N,berapa saja untuk ditampilkan datanya.
 2.  Fungsi random akan menampilkan data secara otomatis dibawah nilai yg di Input contoh :
 
+
+
 ![Screenshot (33)](https://user-images.githubusercontent.com/57034810/68475690-6354c200-025b-11ea-96f7-e96abdd3ee6b.png)
 
+
+
+DENGAN FLOWCHART SEPERTI DI BAWAH INI
+![Screenshot (38)](https://user-images.githubusercontent.com/57034810/68640405-3d207200-053a-11ea-937d-912f398f7d68.png)
 
 
 
@@ -16,6 +22,9 @@
 
 
 ![Screenshot (37)](https://user-images.githubusercontent.com/57034810/68477026-eb889680-025e-11ea-8cd8-22ba195c3797.png)
+
+
+![Screenshot (39)](https://user-images.githubusercontent.com/57034810/68643909-d99c4180-0545-11ea-933a-b94d8c560c79.png)
 
 
                             Penjelasan alur algoritma program1
